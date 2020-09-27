@@ -1,8 +1,8 @@
-# Submit Homework 
+# sample 
   
           
   ##  Description
-  This is a project where you create a readme through the command line interface. 
+  sample sample sample sample
 
   ##  Table of Contents
   * [Installation](#Installation)
@@ -14,22 +14,24 @@
   * [Questions](#Questions)
           
   ##  Installation
-  In this section you would describe to someone how to install the app that you have created. 
+  turn it on
 
   ## Usage
-  Anything that is generally looked upon as legal. 
+  no criminal activity
 
   ##  License
   ![license badge](https://img.shields.io/badge/license-MIT)
 
   ##  Contributing
-  Anything that leads to outdoor adventure or catching wild fish. 
+  its all mine
   
   ##  Test  
-  this is a section where the instructions for testing would be delineated. 
+  there are none at this point
 
-  ##  Quetions
+  ##  Questions
   ###  Please reach out to me at the following info if you have any questions about the app.
+  
+  ## Contact Info
   andypedonti@github.io
-  andy.pedonti@gmail.com
+  andy.pedonti@gmail.cpm
 

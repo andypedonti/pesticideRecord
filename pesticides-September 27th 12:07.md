@@ -1,11 +1,8 @@
-// function to generate markdown for README
-// use this to make a module that exports something
-function generateMarkdown(data) {
-  return `# ${data.title} 
+# Sample 
   
           
   ##  Description
-  ${data.description}
+  asldkjfas;ldkjfa;sldkjfas;dlkjfasdlkjf alskdfjn aslkjdf asldkjf 
 
   ##  Table of Contents
   * [Installation](#Installation)
@@ -17,30 +14,24 @@ function generateMarkdown(data) {
   * [Questions](#Questions)
           
   ##  Installation
-  ${data.installation}
+  asdlknfkjdfl 
 
   ## Usage
-  ${data.usage}
+  asdlkjicvnvndnasdn
 
   ##  License
-  ![license badge](${data.license})
+  ![license badge](https://img.shields.io/badge/license-MIT)
 
   ##  Contributing
-  ${data.contributing}
+  a;slkdjfnasldkjf asldkf al;sdkfj 
   
   ##  Test  
-  ${data.testing}
+  als;dkf asdlkf a;lsdkfn a;lsdkf 
 
   ##  Questions
   ###  Please reach out to me at the following info if you have any questions about the app.
   
   ## Contact 
-  ${data.github}
-  ${data.email}
+  andypedonti@github.io
+  andy.pedonti@gmail.com
 
-`;
-}
-
-module.exports = generateMarkdown;
-
-//how do i tell someone how to install this
