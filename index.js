@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const moment = require("moment");
 const { type } = require("os");
-var geolocation = require("geolocation");
+//var geolocation = require("geolocation");
 const generateMarkdown = require("./utils/generateMarkdown");
 
 let pesticideQuestios = [
@@ -62,7 +62,7 @@ let actualQuestions = [
     name: "description",
   },
   {
-    message: "what are the installation intructions?",
+    message: "What are the installation intructions?",
     type: "input",
     name: "installation",
   },

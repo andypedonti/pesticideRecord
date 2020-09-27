@@ -4,33 +4,41 @@ function generateMarkdown(data) {
   return `# ${data.title} 
   
           
-          ##  Description
-          ${data.description}
+  ##  Description
+  ${data.description}
 
-          ##  Table of Contents
-          * Installation
-          * Usage
-          * License
-          * Contributing
-          * Test
-          * Questions
+  ##  Table of Contents
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Contributing](#Contributing)
+  * [Test](#Test)
+  * [Contact](#Contact Info)
+  * [Questions](#Questions)
           
-          ##Installation
-          ${data.installation}
+  ##  Installation
+  ${data.installation}
 
-          ## License
-          ![license badge](${data.license})
-          
-          
-          
+  ## Usage
+  ${data.usage}
 
+  ##  License
+  ![license badge](${data.license})
 
+  ##  Contributing
+  ${data.contributing}
+  
+  ##  Test  
+  ${data.testing}
+
+  ##  Questions
+  ###  Please reach out to me at the following info if you have any questions about the app.
+  ${data.github}
+  ${data.email}
 
 `;
 }
 
 module.exports = generateMarkdown;
 
-//take +'s out, wrap all variables into ${}'s
-//what is this for?
 //how do i tell someone how to install this
